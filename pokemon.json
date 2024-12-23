@@ -1,0 +1,502 @@
+[
+  {
+    "national_number": 0,
+    "english_name": "Slowpoke",
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "sp_attack": 65,
+    "sp_defense": 65,
+    "speed": 45
+  },
+ {
+   "national_number": 1,
+   "english_name": "Bulbasaur",
+   "hp": 45,
+   "attack": 49,
+   "defense": 49,
+   "sp_attack": 65,
+   "sp_defense": 65,
+   "speed": 45
+ },
+ {
+   "national_number": 2,
+   "english_name": "Ivysaur",
+   "hp": 60,
+   "attack": 62,
+   "defense": 63,
+   "sp_attack": 80,
+   "sp_defense": 80,
+   "speed": 60
+ },
+ {
+   "national_number": 3,
+   "english_name": "Venusaur",
+   "hp": 80,
+   "attack": 82,
+   "defense": 83,
+   "sp_attack": 100,
+   "sp_defense": 100,
+   "speed": 80
+ },
+ {
+   "national_number": 4,
+   "english_name": "Charmander",
+   "hp": 39,
+   "attack": 52,
+   "defense": 43,
+   "sp_attack": 60,
+   "sp_defense": 50,
+   "speed": 65
+ },
+ {
+   "national_number": 5,
+   "english_name": "Charmeleon",
+   "hp": 58,
+   "attack": 64,
+   "defense": 58,
+   "sp_attack": 80,
+   "sp_defense": 65,
+   "speed": 80
+ },
+ {
+   "national_number": 6,
+   "english_name": "Charizard",
+   "hp": 78,
+   "attack": 84,
+   "defense": 78,
+   "sp_attack": 109,
+   "sp_defense": 85,
+   "speed": 100
+ },
+ {
+   "national_number": 7,
+   "english_name": "Squirtle",
+   "hp": 44,
+   "attack": 48,
+   "defense": 65,
+   "sp_attack": 50,
+   "sp_defense": 64,
+   "speed": 43
+ },
+ {
+   "national_number": 8,
+   "english_name": "Wartortle",
+   "hp": 59,
+   "attack": 63,
+   "defense": 80,
+   "sp_attack": 65,
+   "sp_defense": 80,
+   "speed": 58
+ },
+ {
+   "national_number": 9,
+   "english_name": "Blastoise",
+   "hp": 79,
+   "attack": 83,
+   "defense": 100,
+   "sp_attack": 85,
+   "sp_defense": 105,
+   "speed": 78
+ },
+ {
+   "national_number": 10,
+   "english_name": "Caterpie",
+   "hp": 45,
+   "attack": 30,
+   "defense": 35,
+   "sp_attack": 20,
+   "sp_defense": 20,
+   "speed": 45
+ },
+ {
+   "national_number": 11,
+   "english_name": "Metapod",
+   "hp": 50,
+   "attack": 20,
+   "defense": 55,
+   "sp_attack": 25,
+   "sp_defense": 25,
+   "speed": 30
+ },
+ {
+   "national_number": 12,
+   "english_name": "Butterfree",
+   "hp": 60,
+   "attack": 45,
+   "defense": 50,
+   "sp_attack": 90,
+   "sp_defense": 80,
+   "speed": 70
+ },
+ {
+   "national_number": 13,
+   "english_name": "Weedle",
+   "hp": 40,
+   "attack": 35,
+   "defense": 30,
+   "sp_attack": 20,
+   "sp_defense": 20,
+   "speed": 50
+ },
+ {
+   "national_number": 14,
+   "english_name": "Kakuna",
+   "hp": 45,
+   "attack": 25,
+   "defense": 50,
+   "sp_attack": 25,
+   "sp_defense": 25,
+   "speed": 35
+ },
+ {
+   "national_number": 15,
+   "english_name": "Beedrill",
+   "hp": 65,
+   "attack": 90,
+   "defense": 40,
+   "sp_attack": 45,
+   "sp_defense": 80,
+   "speed": 75
+ },
+ {
+   "national_number": 16,
+   "english_name": "Pidgey",
+   "hp": 40,
+   "attack": 45,
+   "defense": 40,
+   "sp_attack": 35,
+   "sp_defense": 35,
+   "speed": 56
+ },
+ {
+   "national_number": 17,
+   "english_name": "Pidgeotto",
+   "hp": 63,
+   "attack": 60,
+   "defense": 55,
+   "sp_attack": 50,
+   "sp_defense": 50,
+   "speed": 71
+ },
+ {
+   "national_number": 18,
+   "english_name": "Pidgeot",
+   "hp": 83,
+   "attack": 80,
+   "defense": 75,
+   "sp_attack": 70,
+   "sp_defense": 70,
+   "speed": 101
+ },
+ {
+   "national_number": 19,
+   "english_name": "Rattata",
+   "hp": 30,
+   "attack": 56,
+   "defense": 35,
+   "sp_attack": 25,
+   "sp_defense": 35,
+   "speed": 72
+ },
+ {
+   "national_number": 20,
+   "english_name": "Raticate",
+   "hp": 55,
+   "attack": 81,
+   "defense": 60,
+   "sp_attack": 50,
+   "sp_defense": 70,
+   "speed": 97
+ },
+ {
+   "national_number": 21,
+   "english_name": "Spearow",
+   "hp": 40,
+   "attack": 60,
+   "defense": 30,
+   "sp_attack": 31,
+   "sp_defense": 31,
+   "speed": 70
+ },
+ {
+   "national_number": 22,
+   "english_name": "Fearow",
+   "hp": 65,
+   "attack": 90,
+   "defense": 65,
+   "sp_attack": 61,
+   "sp_defense": 61,
+   "speed": 100
+ },
+ {
+   "national_number": 23,
+   "english_name": "Ekans",
+   "hp": 35,
+   "attack": 60,
+   "defense": 44,
+   "sp_attack": 40,
+   "sp_defense": 54,
+   "speed": 55
+ },
+ {
+   "national_number": 24,
+   "english_name": "Arbok",
+   "hp": 60,
+   "attack": 95,
+   "defense": 69,
+   "sp_attack": 65,
+   "sp_defense": 79,
+   "speed": 80
+ },
+ {
+   "national_number": 25,
+   "english_name": "Pikachu",
+   "hp": 35,
+   "attack": 55,
+   "defense": 40,
+   "sp_attack": 50,
+   "sp_defense": 50,
+   "speed": 90
+ },
+ {
+   "national_number": 26,
+   "english_name": "Raichu",
+   "hp": 60,
+   "attack": 90,
+   "defense": 55,
+   "sp_attack": 90,
+   "sp_defense": 80,
+   "speed": 110
+ },
+ {
+   "national_number": 27,
+   "english_name": "Sandshrew",
+   "hp": 50,
+   "attack": 75,
+   "defense": 85,
+   "sp_attack": 20,
+   "sp_defense": 30,
+   "speed": 40
+ },
+ {
+   "national_number": 28,
+   "english_name": "Sandslash",
+   "hp": 75,
+   "attack": 100,
+   "defense": 110,
+   "sp_attack": 45,
+   "sp_defense": 55,
+   "speed": 65
+ },
+ {
+   "national_number": 29,
+   "english_name": "Nidoran",
+   "hp": 55,
+   "attack": 47,
+   "defense": 52,
+   "sp_attack": 40,
+   "sp_defense": 40,
+   "speed": 41
+ },
+ {
+   "national_number": 30,
+   "english_name": "Nidorina",
+   "hp": 70,
+   "attack": 62,
+   "defense": 67,
+   "sp_attack": 55,
+   "sp_defense": 55,
+   "speed": 56
+ },
+ {
+   "national_number": 31,
+   "english_name": "Nidoqueen",
+   "hp": 90,
+   "attack": 92,
+   "defense": 87,
+   "sp_attack": 75,
+   "sp_defense": 85,
+   "speed": 76
+ },
+ {
+   "national_number": 32,
+   "english_name": "Nidoran♂",
+   "hp": 46,
+   "attack": 57,
+   "defense": 40,
+   "sp_attack": 40,
+   "sp_defense": 40,
+   "speed": 50
+ },
+ {
+   "national_number": 34,
+   "english_name": "Nidoking",
+   "hp": 81,
+   "attack": 102,
+   "defense": 77,
+   "sp_attack": 85,
+   "sp_defense": 75,
+   "speed": 85
+ },
+ {
+   "national_number": 35,
+   "english_name": "Clefairy",
+   "hp": 70,
+   "attack": 45,
+   "defense": 48,
+   "sp_attack": 60,
+   "sp_defense": 65,
+   "speed": 35
+ },
+ {
+   "national_number": 36,
+   "english_name": "Clefable",
+   "hp": 95,
+   "attack": 70,
+   "defense": 73,
+   "sp_attack": 95,
+   "sp_defense": 90,
+   "speed": 60
+ },
+ {
+   "national_number": 37,
+   "english_name": "Vulpix",
+   "hp": 38,
+   "attack": 41,
+   "defense": 40,
+   "sp_attack": 50,
+   "sp_defense": 65,
+   "speed": 65
+ },
+ {
+   "national_number": 38,
+   "english_name": "Ninetales",
+   "hp": 73,
+   "attack": 76,
+   "defense": 75,
+   "sp_attack": 81,
+   "sp_defense": 100,
+   "speed": 100
+ },
+ {
+   "national_number": 39,
+   "english_name": "Jigglypuff",
+   "hp": 115,
+   "attack": 45,
+   "defense": 20,
+   "sp_attack": 45,
+   "sp_defense": 25,
+   "speed": 20
+ },
+ {
+   "national_number": 40,
+   "english_name": "Wigglytuff",
+   "hp": 140,
+   "attack": 70,
+   "defense": 45,
+   "sp_attack": 85,
+   "sp_defense": 50,
+   "speed": 45
+ },
+ {
+   "national_number": 41,
+   "english_name": "Zubat",
+   "hp": 40,
+   "attack": 45,
+   "defense": 35,
+   "sp_attack": 30,
+   "sp_defense": 40,
+   "speed": 55
+ },
+ {
+   "national_number": 42,
+   "english_name": "Golbat",
+   "hp": 75,
+   "attack": 80,
+   "defense": 70,
+   "sp_attack": 65,
+   "sp_defense": 75,
+   "speed": 90
+ },
+ {
+   "national_number": 43,
+   "english_name": "Oddish",
+   "hp": 45,
+   "attack": 50,
+   "defense": 55,
+   "sp_attack": 75,
+   "sp_defense": 65,
+   "speed": 30
+ },
+ {
+   "national_number": 44,
+   "english_name": "Gloom",
+   "hp": 60,
+   "attack": 65,
+   "defense": 70,
+   "sp_attack": 85,
+   "sp_defense": 75,
+   "speed": 40
+ },
+ {
+   "national_number": 45,
+   "english_name": "Vileplume",
+   "hp": 75,
+   "attack": 80,
+   "defense": 85,
+   "sp_attack": 110,
+   "sp_defense": 90,
+   "speed": 50
+ },
+ {
+   "national_number": 46,
+   "english_name": "Paras",
+   "hp": 35,
+   "attack": 70,
+   "defense": 55,
+   "sp_attack": 45,
+   "sp_defense": 55,
+   "speed": 25
+ },
+ {
+   "national_number": 47,
+   "english_name": "Parasect",
+   "hp": 60,
+   "attack": 95,
+   "defense": 80,
+   "sp_attack": 60,
+   "sp_defense": 80,
+   "speed": 30
+ },
+ {
+   "national_number": 48,
+   "english_name": "Venonat",
+   "hp": 60,
+   "attack": 55,
+   "defense": 50,
+   "sp_attack": 40,
+   "sp_defense": 55,
+   "speed": 45
+ },
+ {
+   "national_number": 49,
+   "english_name": "Venomoth",
+   "hp": 70,
+   "attack": 65,
+   "defense": 60,
+   "sp_attack": 90,
+   "sp_defense": 75,
+   "speed": 90
+ },
+ {
+   "national_number": 50,
+   "english_name": "Diglett",
+   "hp": 10,
+   "attack": 55,
+   "defense": 25,
+   "sp_attack": 35,
+   "sp_defense": 45,
+   "speed": 95
+ }
+]
